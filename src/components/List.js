@@ -132,14 +132,6 @@ const DatatablePage = () => {
         salary: "$162",
       },
       {
-        name: "Brielle Williamson",
-        position: "Integration Specialist",
-        office: "New York",
-        age: "61",
-        date: "2012/12/02",
-        salary: "$372",
-      },
-      {
         name: "Herrod Chandler",
         position: "Sales Assistant",
         office: "San Francisco",
